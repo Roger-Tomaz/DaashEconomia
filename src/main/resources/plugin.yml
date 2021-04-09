@@ -1,0 +1,10 @@
+name: DaashEconomia
+version: ${project.version}
+main: rede.daash.coins.DaashCoins
+api-version: 1.16
+authors: [ yDarkCodes_ ]
+description: Plugin de coins
+commands:
+  coins:
+    aliases:
+      - money
